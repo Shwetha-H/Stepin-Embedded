@@ -5,13 +5,13 @@
 
 ## The case study is divided into three activities:
 
-# Activity 1
-## To turn ON the LED given when the heater and button are pressed.
-# Activity 2
-## To Read the ADC value using potentiometer
+## Activity 1
+To turn ON the LED given when the heater and button are pressed.
+## Activity 2
+To Read the ADC value using potentiometer
 
-# Activity 3
-## To read the PWM output using CRO
+## Activity 3
+To read the PWM output using CRO
 
 
 ## Case Study Diagram 
