@@ -2,5 +2,6 @@
 
 ## Seat Heating Application
 
+## Case Study Diagram 
 
 ## Badges
