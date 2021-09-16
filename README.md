@@ -1,6 +1,18 @@
 # Embedded C Programming
+### Case Study
 
 ## Seat Heating Application
+
+## The case study is divided into three activities:
+
+# Activity 1
+## To turn ON the LED given when the heater and button are pressed.
+# Activity 2
+## To Read the ADC value using potentiometer
+
+# Activity 3
+## To read the PWM output using CRO
+
 
 ## Case Study Diagram 
 ![case](https://github.com/Shwetha-H/Stepin-Embedded_C/blob/be55522f2b1601b8bfbdfdfe001a396f0df19ab3/Images/casestudy.png)
