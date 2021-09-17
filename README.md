@@ -20,4 +20,4 @@ To read the PWM output using CRO
 ## CI and Code Quality
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/5e36cbcb2831423d8f7fafc4103e0989)](https://www.codacy.com/gh/Shwetha-H/Stepin-Embedded_C/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Shwetha-H/Stepin-Embedded_C&amp;utm_campaign=Badge_Grade)   
 
-![codeinspector](https://www.code-inspector.com/project/28926/score/svg)
+![codeinspector](https://www.code-inspector.com/project/28926/score/svg)   ![code](https://www.code-inspector.com/project/28926/status/svg)
