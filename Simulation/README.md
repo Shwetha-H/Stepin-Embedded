@@ -8,10 +8,10 @@
 
 
 ## Activity 2
-- The temperature value is obtained based on ADC
+The temperature value is obtained based on ADC.
 |Case1 | Case2 |
 |------|-------|
-|![ad1](https://github.com/Shwetha-H/Stepin-Embedded_C/blob/1408a7e65488740ec290a7afa96322fcabe5f81c/Images/ADC1.png)| ![acd2]
+|![ad1](https://github.com/Shwetha-H/Stepin-Embedded_C/blob/1408a7e65488740ec290a7afa96322fcabe5f81c/Images/ADC1.png) | ![acd2](https://github.com/Shwetha-H/Stepin-Embedded_C/blob/623e198412ed2b1ce90e1804b9a24410adef3efa/Images/ADC2.png)|
 ## Activity 3
 The digitized temperature input is visualized using Pulse Width Modulation.
 |Case1 | Case2 |
