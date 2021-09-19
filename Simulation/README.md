@@ -1,6 +1,7 @@
 #  Results from simulation
 ## Activity 1
-- Seater and heater switch is pressed hence LED is On. 
+- When Seater and heater switch is pressed hence LED turns On. 
+![on](https://github.com/Shwetha-H/Stepin-Embedded_C/blob/1a88897949f72365e59d367732693979cf271870/Images/LED_ON.png)
 
 - If any one of the switch i.e heater switch or seater switch is not pressed the LED turns  OFF. 
 
