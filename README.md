@@ -1,7 +1,7 @@
 # Embedded C Programming
-### Case Study
 
-## Seat Heating Application
+
+## Seat Heating Application (Case Study)
 
 ## The case study is divided into three activities:
 
