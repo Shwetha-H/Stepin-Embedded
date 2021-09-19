@@ -15,3 +15,4 @@
 The digitized temperature input is visualized using Pulse Width Modulation.
 |Case1 | Case2 |
 |------|-------|
+|![ac1](https://github.com/Shwetha-H/Stepin-Embedded_C/blob/0b14e850d1093dd60432f82d695ecb87a92ece88/Images/ac3(1).png)| ![ac2](
